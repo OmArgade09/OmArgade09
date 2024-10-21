@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Om Argade </h1>
 <h3 align="center">A Passionate Developer Focused on Python, React, C, C++, HTML & CSS</h3>
 
 <!-- Insert the coding image -->
@@ -6,7 +6,7 @@
 
 <!-- Profile view counter -->
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> 
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Omargade" /> 
 </p>
 
 - 🌱 I’m currently working with *Python, React, C, C++, HTML, and CSS*
