@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Omargade" /> 
 </p>
 
-- 🌱 I’m currently working with *Python, DataScience, React, C, C++, HTML, and CSS*
+- 🌱 I’m currently working with *Python, DataScience, React, C++, HTML, and CSS*
 
 - 📫 How to reach me: argadeom192@gmail.com
 
